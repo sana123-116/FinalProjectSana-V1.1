@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3a33388a01a9c20468f56a8d5123bb0e
+  - enabled: 1
+    path: Assets/Scenes/ML_AgentsMenu.unity
+    guid: 3c66e2e0854a37a4ba45ca72b5a42c91
+  - enabled: 1
+    path: Assets/Scenes/Computational_ModelsMenu.unity
+    guid: a57d5294c347ad84c890f9e0b4a21b1c
+  - enabled: 1
+    path: Assets/Scenes/List_Learned_items.unity
+    guid: daf27071a087fda4cbb0e9a4c083134d
+  - enabled: 1
+    path: Assets/Scenes/Lab_Link.unity
+    guid: f7e93c89a41d2cc4aa865ca84cd4c254
+  - enabled: 1
+    path: Assets/Scenes/Penguins.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hummingbird/Scenes/FlowerIsland.unity
+    guid: 9d4346d6559b17341a2f1e7443453ade
+  - enabled: 1
+    path: Assets/Scenes/Palindrome_menu.unity
+    guid: 7f5c1fd5b5344a64aaebdc59ff44d5fa
+  - enabled: 1
+    path: Assets/Scenes/matching_paren.unity
+    guid: d4fcd553372c5db48abfdbf7b1bc0676
+  - enabled: 1
+    path: Assets/Scenes/Language_Palindromes.unity
+    guid: dce1398074937b84288b912fdad6c441
+  - enabled: 1
+    path: Assets/Scenes/Language_parenthesis.unity
+    guid: 20a3cab1f1467b04ba5fa2fa25920507
+  - enabled: 1
+    path: Assets/Scenes/RollBall_Terrian.unity
+    guid: 05f8aa977becc244881b1a53b7dd0fad
+  - enabled: 1
+    path: Assets/Scenes/Main_Scene.unity
+    guid: e48aba9415b1d414ea699f7e1fb38a4b
+  m_configObjects: {}
